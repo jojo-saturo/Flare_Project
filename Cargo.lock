@@ -1549,6 +1549,7 @@ dependencies = [
  "alloy",
  "eyre",
  "tokio",
+ "url",
 ]
 
 [[package]]
